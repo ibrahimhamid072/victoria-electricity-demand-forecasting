@@ -226,4 +226,4 @@ MLFLOW_ALLOW_FILE_STORE=true mlflow ui --backend-store-uri file://$(pwd)/mlruns
 
 ## 👤 Author
 **Ibrahim Mohamed Ibrahim Hamid**  
-Electrical & Electronics Engineering | Machine Learning & Autonomous Systems
+Electrical & Electronics Engineering | AI & Autonomous Systems
