@@ -2,7 +2,10 @@
 ## 🎥 Interactive Demo & Walkthrough
 
 
-Uploading Screencast from 11-19-2026 02-43-48 PM.mp4…
+
+https://github.com/user-attachments/assets/2431caf5-e63d-497d-8ff3-4a772eb16c35
+
+
 
 
 
