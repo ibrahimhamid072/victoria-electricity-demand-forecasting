@@ -1,4 +1,14 @@
 # ⚡ Victoria Daily Electricity Demand Forecasting
+## 🎥 Interactive Demo & Walkthrough
+
+
+Uploading Screencast from 11-19-2026 02-43-48 PM.mp4…
+
+
+
+
+
+
 ### Leak-Free End-to-End Machine Learning Pipeline & Interactive Streamlit Forecaster
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
